@@ -7,7 +7,7 @@ Run the PingWeb.exe file from App folder which displays below windows form. Ente
  
 
 # Where can I get it?
-On downloading or using pull request for git hub both executable files in app folder and source code for opening in visual studio is available.
+Downloading from git hub will include executable file PingWeb.exe in app folder and source code for opening in visual studio.
 
 # How can I get help?
 For bugs, issues or feature requests, create a GitHub Issue.
